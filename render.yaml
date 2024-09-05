@@ -1,6 +1,6 @@
 databases:
   - name: ITS
-    databaseName: ITS
+    databaseName: its_db
     user: manuel
     plan: free
 
